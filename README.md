@@ -1,0 +1,2 @@
+# batatabit-sample
+This is a sample project from Mobile First Design in HTML and CSS
